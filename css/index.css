@@ -1,0 +1,43 @@
+.header-picture {
+  width: 100%;
+}
+
+.display-1 {
+  position: absolute;
+  margin: 15%;
+  z-index: 1;
+}
+
+h1 {
+  text-align: center;
+  margin: 100px;
+}
+
+.row {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
+
+.skill-picture {
+  width: 40%;
+  height: 50%;
+}
+
+.work-picture {
+  width: 60%;
+  height: 100%;
+}
+
+.carousel-inner {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.carousel-inner ul {
+  margin: 0 2%;
+}
+/*# sourceMappingURL=index.css.map */
